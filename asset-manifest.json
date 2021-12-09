@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GameXucXac/static/css/main.09e6226b.chunk.css",
-    "main.js": "/GameXucXac/static/js/main.b9cefb4a.chunk.js",
-    "main.js.map": "/GameXucXac/static/js/main.b9cefb4a.chunk.js.map",
+    "main.js": "/GameXucXac/static/js/main.ba99f1a0.chunk.js",
+    "main.js.map": "/GameXucXac/static/js/main.ba99f1a0.chunk.js.map",
     "runtime-main.js": "/GameXucXac/static/js/runtime-main.5c9f2462.js",
     "runtime-main.js.map": "/GameXucXac/static/js/runtime-main.5c9f2462.js.map",
     "static/js/2.a1e0025b.chunk.js": "/GameXucXac/static/js/2.a1e0025b.chunk.js",
@@ -12,12 +12,13 @@
     "index.html": "/GameXucXac/index.html",
     "static/css/main.09e6226b.chunk.css.map": "/GameXucXac/static/css/main.09e6226b.chunk.css.map",
     "static/js/2.a1e0025b.chunk.js.LICENSE.txt": "/GameXucXac/static/js/2.a1e0025b.chunk.js.LICENSE.txt",
+    "static/media/GiaiDieuMuaXuan.0b7c154b.mp3": "/GameXucXac/static/media/GiaiDieuMuaXuan.0b7c154b.mp3",
     "static/media/GameXucXac.module.css": "/GameXucXac/static/media/bgGame.e4960559.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5c9f2462.js",
     "static/js/2.a1e0025b.chunk.js",
     "static/css/main.09e6226b.chunk.css",
-    "static/js/main.b9cefb4a.chunk.js"
+    "static/js/main.ba99f1a0.chunk.js"
   ]
 }
